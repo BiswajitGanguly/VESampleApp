@@ -1,2 +1,2 @@
 # VESampleApp
-UI Sample Project with Grant,Bower and Karma
+Visual Engineering Sample Project with Grant,Bower and Karma
